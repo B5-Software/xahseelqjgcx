@@ -1,4 +1,4 @@
-Write-Host "西安市城六区中考录取结果API调用器 Powershell版 V2")
+Write-Host "西安市城六区中考录取结果API调用器 Powershell版 V2"
 
 $year = Read-Host "请输入查询年份："
 $zkzh = Read-Host "请输入准考证号："
